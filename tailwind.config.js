@@ -1,7 +1,8 @@
 module.exports = {
-  content: [],
+  content: ["./src/**/*.{html,js,vue}"],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+  prefix: "tw-",
+};

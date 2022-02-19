@@ -6,7 +6,7 @@
       style="width: 200px; height: 200px"
     />
   </q-page>
-  <div class="text-green-500 text-lg">Belzainco Nigerian Limited</div>
+  <div class="tw-text-green-500 tw-text-3xl">Belzainco Nigerian Limited</div>
 </template>
 
 <script>
