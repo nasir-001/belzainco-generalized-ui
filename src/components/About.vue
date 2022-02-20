@@ -1,7 +1,7 @@
 <template>
-  <div class="row tw-justify-center">
+  <div class="row tw-justify-center tw-mt-32 tw-bg-about-image">
     <div class="col-12 col-md-10 col-lg-8 col-xl-7">
-      <div class="tw-flex tw-justify-center tw-mt-32">
+      <div class="tw-flex tw-justify-center">
         <div class="tw-w-2/3">
           <div class="tw-text-4xl tw-font-semibold tw-pt-32">About Us</div>
           <div class="tw-text-lg tw-text-gray-600 tw-pt-6">
@@ -13,7 +13,7 @@
             customer.
           </div>
         </div>
-        <div class="tw-w-1/2">
+        <div class="tw-w-1/2 tw-mt-12">
           <q-img src="~assets/img/belzainco.png" />
         </div>
       </div>
