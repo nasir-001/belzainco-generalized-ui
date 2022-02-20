@@ -4,28 +4,28 @@
       <div class="col-12 col-md-11 col-lg-10 col-xl-8">
         <div class="tw-flex tw-mt-5">
           <div
-            class="tw-text-green-600 tw-text-3xl tw-w-24 tw-text-center hover:tw-text-4xl tw-pl-6 lg:tw-pl-24"
+            class="tw-text-green-700 tw-text-3xl tw-w-24 tw-text-center hover:tw-text-4xl tw-pl-6 lg:tw-pl-24"
           >
             Belzainco
           </div>
           <div class="tw-flex tw-mx-auto tw-mt-1 lg:tw-w-1/3">
             <div
-              class="tw-text-green-600 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Home
             </div>
             <div
-              class="tw-text-green-600 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               About
             </div>
             <div
-              class="tw-text-green-600 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Products
             </div>
             <div
-              class="tw-text-green-600 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Contact Us
             </div>
@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="tw-flex tw-justify-between md:tw-hidden">
-      <div class="tw-text-green-600 tw-text-xl tw-p-2">Belzainco</div>
+      <div class="tw-text-green-700 tw-text-xl tw-p-2">Belzainco</div>
       <q-btn
         flat
         dense
@@ -52,7 +52,7 @@
           <q-list style="min-width: 150px">
             <q-item clickable>
               <q-item-section
-                class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-green-600 hover:tw-text-green-800"
+                class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-green-700 hover:tw-text-green-800"
               >
                 <a href="#home"> Home </a>
               </q-item-section>
@@ -60,7 +60,7 @@
             <q-separator />
             <q-item clickable>
               <q-item-section
-                class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-green-600 hover:tw-text-green-800"
+                class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-green-700 hover:tw-text-green-800"
               >
                 <a href="#about"> About us </a>
               </q-item-section>
@@ -68,7 +68,7 @@
             <q-separator />
             <q-item clickable>
               <q-item-section
-                class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-green-600 hover:tw-text-green-800"
+                class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-green-700 hover:tw-text-green-800"
               >
                 <a href="#services"> Products </a>
               </q-item-section>
@@ -76,7 +76,7 @@
             <q-separator />
             <q-item clickable>
               <q-item-section
-                class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-green-600 hover:tw-text-green-800"
+                class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-green-700 hover:tw-text-green-800"
               >
                 <a href="#footer"> Contact </a>
               </q-item-section>
