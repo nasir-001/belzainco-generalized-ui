@@ -5,6 +5,7 @@
     <about></about>
     <services></services>
     <big-image></big-image>
+    <products></products>
   </div>
 </template>
 
@@ -15,6 +16,7 @@ import Hero from "components/Hero.vue";
 import About from "components/About.vue";
 import Services from "components/Services.vue";
 import BigImage from "components/BigImage.vue";
+import Products from "components/Products.vue";
 
 export default defineComponent({
   name: "Home",
@@ -24,6 +26,7 @@ export default defineComponent({
     About,
     Services,
     BigImage,
+    Products,
   },
 });
 </script>
