@@ -6,8 +6,10 @@
     "It feels good at the end of the day to know you made a product that <br />
     other people are going to enjoy"
   </div>
-  <div class="tw-w-2/3 tw-mx-auto">
-    <q-img src="~assets/img/basket.png" />
+  <div class="row">
+    <div class="tw-w-full tw-mx-auto col-12 col-md-9 col-lg-8 col-xl-7">
+      <q-img src="~assets/img/basket.png" />
+    </div>
   </div>
 </template>
 

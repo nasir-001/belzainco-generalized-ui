@@ -1,31 +1,31 @@
 <template>
   <div class="tw-bg-white tw-shadow-lg tw-h-12 md:tw-h-16 lg:tw-h-20 tw-w-full">
     <div class="row tw-justify-center tw-hidden md:tw-block">
-      <div class="col-12 col-md-11 col-lg-10 col-xl-8">
-        <div class="tw-flex tw-mt-5">
+      <div class="col-12 col-md-11 col-lg-10 col-xl-12">
+        <div class="tw-flex tw-justify-between tw-mt-5">
           <div
-            class="tw-text-green-700 tw-text-3xl tw-w-24 tw-text-center hover:tw-text-4xl tw-pl-6 lg:tw-pl-24"
+            class="tw-text-green-700 tw-text-3xl tw-cursor-pointer tw-w-24 tw-text-center hover:tw-text-4xl tw-pl-6 lg:tw-pl-24"
           >
             Belzainco
           </div>
           <div class="tw-flex tw-mx-auto tw-mt-1 lg:tw-w-1/3">
             <div
-              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Home
             </div>
             <div
-              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               About
             </div>
             <div
-              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Products
             </div>
             <div
-              class="tw-text-green-700 tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
+              class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
               Contact Us
             </div>
