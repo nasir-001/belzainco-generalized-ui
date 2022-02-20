@@ -4,6 +4,7 @@
     <hero></hero>
     <about></about>
     <services></services>
+    <big-image></big-image>
   </div>
 </template>
 
@@ -13,6 +14,7 @@ import TopBar from "components/TopBar.vue";
 import Hero from "components/Hero.vue";
 import About from "components/About.vue";
 import Services from "components/Services.vue";
+import BigImage from "components/BigImage.vue";
 
 export default defineComponent({
   name: "Home",
@@ -21,6 +23,7 @@ export default defineComponent({
     Hero,
     About,
     Services,
+    BigImage,
   },
 });
 </script>
