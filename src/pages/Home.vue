@@ -7,6 +7,7 @@
     <big-image></big-image>
     <products></products>
     <images></images>
+    <app-footer></app-footer>
   </div>
 </template>
 
@@ -19,6 +20,7 @@ import Services from "components/Services.vue";
 import BigImage from "components/BigImage.vue";
 import Products from "components/Products.vue";
 import Images from "components/Images.vue";
+import AppFooter from "components/AppFooter.vue";
 
 export default defineComponent({
   name: "Home",
@@ -30,6 +32,7 @@ export default defineComponent({
     BigImage,
     Products,
     Images,
+    AppFooter,
   },
 });
 </script>
