@@ -1,8 +1,12 @@
 <template>
-  <div class="row tw-justify-center tw-mt-24">
-    <div class="tw-text-6xl tw-text-green-700">Highest Quality Of Produce</div>
+  <div class="row tw-justify-center tw-mt-12 lg:tw-mt-24">
+    <div class="tw-text-3xl lg:tw-text-6xl tw-text-green-700">
+      Highest Quality Of Produce
+    </div>
   </div>
-  <div class="tw-pt-7 tw-text-center tw-text-xl tw-w-2/3 tw-mx-auto">
+  <div
+    class="tw-pt-7 tw-text-center tw-text-xl tw-mx-5 lg:tw-w-2/3 lg:tw-mx-auto"
+  >
     "It feels good at the end of the day to know you made a product that <br />
     other people are going to enjoy"
   </div>
