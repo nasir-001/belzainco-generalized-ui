@@ -12,22 +12,30 @@
             <div
               class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
-              Home
+              <a href="#home">
+                Home
+              </a>
             </div>
             <div
               class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
-              About
+              <a href="#about">
+                About
+              </a>
             </div>
             <div
               class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
-              Products
+              <a href="#products">
+                Products
+              </a>
             </div>
             <div
               class="tw-text-green-700 tw-cursor-pointer tw-text-lg hover:tw-text-xl tw-w-28 lg:tw-w-1/4"
             >
-              Contact Us
+              <a href="#footer">
+                Contact Us
+              </a>
             </div>
           </div>
         </div>
@@ -70,7 +78,7 @@
               <q-item-section
                 class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-green-700 hover:tw-text-green-800"
               >
-                <a href="#services"> Products </a>
+                <a href="#products"> Products </a>
               </q-item-section>
             </q-item>
             <q-separator />

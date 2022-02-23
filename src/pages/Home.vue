@@ -1,13 +1,13 @@
 <template>
   <div>
-    <top-bar></top-bar>
+    <top-bar id="home"></top-bar>
     <hero></hero>
-    <about></about>
+    <about id="about"></about>
     <services></services>
     <big-image></big-image>
-    <products></products>
+    <products id="products"></products>
     <images></images>
-    <app-footer></app-footer>
+    <app-footer id="footer"></app-footer>
   </div>
 </template>
 

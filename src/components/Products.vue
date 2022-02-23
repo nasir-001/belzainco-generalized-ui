@@ -3,12 +3,14 @@
     <div class="col-12 col-md-12 col-lg-11 col-xl-10">
       <div class="tw-text-4xl tw-text-center">Products</div>
       <div
-        class="tw-text-center tw-px-3 sm:tw-px-0 tw-text-lg tw-text-gray-600 tw-pt-5 sm:tw-w-2/3 xl:tw-w-1/3 tw-mx-auto"
+        class="tw-text-center tw-px-3 sm:tw-px-0 tw-text-lg tw-text-gray-600 tw-pt-5 sm:tw-w-2/3 xl:tw-w-4/6 tw-mx-auto"
       >
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, dicta
-        unde reiciendis ratione dolorem deleniti ipsam eos velit laudantium
-        nulla accusamus sit suscipit sed ab sunt nobis animi cupiditate
-        pariatur.
+        We operate on an integrated global basis to source, store, trade,
+        process and distribute grains and potato flour including wheat, corn,
+        onions, beans, avocado, sesame seed, fruit as well as vegetable oils and
+        meals. We have a broad global presence of our products origination,
+        shipping and processing and we have developed significant expertise in
+        handling identity preserved and differentiated products.
       </div>
       <q-carousel
         v-model="slide"

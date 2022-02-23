@@ -1,6 +1,6 @@
 <template>
   <div class="row tw-justify-center tw-mt-16 lg:tw-mt-56">
-    <div class="col-12 col-md-11 col-lg-8 col-xl-7">
+    <div class="col-12 col-md-11 col-lg-10 col-xl-9">
       <div class="tw-text-green-700 tw-text-4xl tw-text-center">
         Our Services
       </div>
