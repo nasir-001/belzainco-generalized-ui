@@ -24,7 +24,7 @@
         >
       </div>
       <div class="tw-text-center tw-text-gray-600 tw-text-sm tw-pt-7 tw-pb-12">
-        All right reserved Belzainco NIG LTD
+        All right reserved Belzainco Global Links Nig Ltd
       </div>
     </div>
   </div>
